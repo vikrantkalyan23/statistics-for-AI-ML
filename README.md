@@ -1,5 +1,5 @@
 # Statistics for AI & Machine Learning — Complete Syllabus
-
+---
 **Level:** Beginner to Expert  
 **Recommended duration:** 12–16 weeks  
 **Daily study:** 2–3 hours  
